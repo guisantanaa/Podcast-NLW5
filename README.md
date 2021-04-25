@@ -16,15 +16,15 @@
 
 <p font-size="12px">Use os seguintes comandos</p>
 
-# Instale as dependências
+## Instale as dependências
 
 <p>$ yarn</p>
 
-# Iniciando o servidor JSON
+## Iniciando o servidor JSON
 
 <p>$ yarn server</p>
 
-# Iniciando o projeto
+## Iniciando o projeto
 
 <p>yarn dev</p>
 
