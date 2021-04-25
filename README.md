@@ -39,6 +39,5 @@ foi desenvolvido entre dias 19-25, 2021.
 
 <p>Caso queira visualizar o layout do projeto clique no link abaixo</p>
 
-<li><a href="https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761"></a>Layout web</li>
-
-
+<li><a href="https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761">Layout web
+</a></li>
