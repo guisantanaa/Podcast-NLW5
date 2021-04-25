@@ -41,4 +41,4 @@ foi desenvolvido entre dias 19-25, 2021.
 
 <li><a href="https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761"></a>Layout web</li>
 
-<p text-align="center">Desenvolvido por Guilherme Santana</p>
+
