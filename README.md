@@ -28,7 +28,7 @@
 
 <p>yarn dev</p>
 
-<h2>Sobre o projeto<h2>
+<h2>Sobre o projeto</h2>
 
 <p>O Podcast é um projeto desenvolvido durante a semana NLW-5 um evento da Rocketsetat
 esse projeto é para ouvir podcast com um player de audio super intuitivo, esse projeto
