@@ -10,23 +10,27 @@
 
 <h2>Como usar esse projeto</h2>
 
-<p font-size="12px">Clone esse repositório na sua maquina</p>
+```
 
-<p>git clone https://github.com/guisantanaa/Podcast-NLW5</p>
+Clone esse repositório na sua maquina
 
-<p font-size="12px">Use os seguintes comandos</p>
+$ git clone https://github.com/guisantanaa/Podcast-NLW5
 
-### Instale as dependências
+$ cd Podcast-NLW5
 
-<p>$ yarn</p>
+Instale as dependências
 
-### Iniciando o servidor JSON
+$ yarn
 
-<p>$ yarn server</p>
+Iniciando o servidor JSON
 
-### Iniciando o projeto
+$ yarn server
 
-<p>yarn dev</p>
+Iniciando o projeto
+
+$ yarn dev
+
+```
 
 <h2>Sobre o projeto</h2>
 
